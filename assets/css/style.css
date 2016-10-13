@@ -16,13 +16,12 @@ ul {
 }
 
 #page-wrap {
-     /*width: 800px;*/
      margin: 0 auto;
      margin-left: 100px;
 }
 
-.row {
-	width: 100%;
+.connect-style {
+	margin: 0 auto;
 }
 
 .main-width {
@@ -36,7 +35,6 @@ footer {
 	text-align: center;
 	padding: 10px;
 }
-
 
 .img-display {
 	margin-bottom: 20px
