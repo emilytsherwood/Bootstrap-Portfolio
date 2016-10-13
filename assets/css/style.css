@@ -1,0 +1,48 @@
+.nav {
+	display: inline;
+	margin-left: 100px;
+}
+
+ul {
+	width: 50px;
+}
+
+.align-header {
+	margin-left: 100px;
+}
+
+.about-tab {
+	margin-left: 100px;
+}
+
+#page-wrap {
+     /*width: 800px;*/
+     margin: 0 auto;
+     margin-left: 100px;
+}
+
+.row {
+	width: 100%;
+}
+
+.main-width {
+	width: 50px;
+}
+
+footer {
+	background-color: #eeeeee;
+	color: #bdbdbd;
+	font-size: 10px;
+	text-align: center;
+	padding: 10px;
+}
+
+
+.img-display {
+	margin-bottom: 20px
+}
+
+p {
+	line-height: 1.5;
+	margin-left: 100px;
+}
