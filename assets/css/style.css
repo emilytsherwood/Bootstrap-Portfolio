@@ -1,4 +1,5 @@
 /*Nav Bar*/
+
 .nav {
 	display: inline;
 }
@@ -10,7 +11,16 @@ ul {
 /*Social Media Links*/
 .connect-style {
 	margin: 0 auto;
+	margin-right: 20px;
 }
+
+.social {
+	margin-left: 20px;
+}
+
+
+
+
 
 /*Footer*/
 footer {
@@ -22,10 +32,6 @@ footer {
 } 
 
 /*'About Me' Page*/
-#page-wrap {
-     margin: 0 auto;
-}
-
 .img-display {
 	margin-bottom: 20px
 }
@@ -40,6 +46,7 @@ p {
 .thumbnail {
 	width: 233px;
 	text-align: center;
+	padding: 0;
 }
 
 .img-responsive {
@@ -51,4 +58,10 @@ p {
 	margin-top: 5px;
 	margin-bottom: 40px;
 	text-align: center;
+}
+
+/*'Contact' Page*/
+
+.submit {
+	margin-bottom: 20px;
 }
