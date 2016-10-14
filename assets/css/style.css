@@ -1,13 +1,11 @@
-.nav {
-	display: inline;
+/*Header*/
+.align-header {
 	margin-left: 100px;
 }
 
-ul {
-	width: 50px;
-}
-
-.align-header {
+/*Nav Bar*/
+.nav {
+	display: inline;
 	margin-left: 100px;
 }
 
@@ -15,25 +13,32 @@ ul {
 	margin-left: 100px;
 }
 
-#page-wrap {
-     margin: 0 auto;
-     margin-left: 100px;
+ul {
+	width: 50px;
 }
 
+/*Social Media Links*/
 .connect-style {
 	margin: 0 auto;
 }
 
-.main-width {
-	width: 50px;
-}
-
+/*Footer*/
 footer {
 	background-color: #eeeeee;
 	color: #bdbdbd;
 	font-size: 10px;
 	text-align: center;
-	padding: 10px;
+	padding: 20px;
+} 
+
+/*'About Me' Page*/
+#page-wrap {
+     margin: 0 auto;
+     margin-left: 100px;
+}
+
+.main-width {
+	width: 50px;
 }
 
 .img-display {
@@ -43,4 +48,22 @@ footer {
 p {
 	line-height: 1.5;
 	margin-left: 100px;
+}
+
+/*'Portfolio' Page*/
+
+.thumbnail {
+	width: 233px;
+	text-align: center;
+}
+
+.img-responsive {
+	margin: 0 auto;
+}
+
+.portfolio-font {
+	font-size: 25px;
+	margin-top: 5px;
+	margin-bottom: 40px;
+	text-align: center;
 }
